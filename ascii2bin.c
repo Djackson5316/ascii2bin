@@ -16,5 +16,5 @@ int main()
     }
     printf("%u\n", number);
 
-    return 1;
+    return 0;
 }
